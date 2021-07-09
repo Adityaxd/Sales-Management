@@ -1,0 +1,25 @@
+.Main-Grid{
+    width: 100%;
+    display: flex;
+}
+
+h1{
+    top: 100px;
+left: 30px;
+width: 141px;
+height: 31px;
+text-align: left;
+font: normal normal normal 23px/32px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.Header{
+    text-align: left;
+    font: normal normal normal 28px/32px Ubuntu;
+    letter-spacing: 0px;
+    margin-left: 2.5%;
+}
+
+

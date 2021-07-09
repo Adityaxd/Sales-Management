@@ -1,0 +1,30 @@
+.outer{
+height: 80vh;
+background: #273D49CC 0% 0% no-repeat padding-box;
+margin-left: 2.5%;
+margin-right: 2.5%;
+border-radius: 10px;
+opacity: 1;
+}
+
+.inner{
+    padding: 2%;
+}
+
+.buttons-R{
+    display: flex;
+    float: right;
+}
+
+.buttons-L{
+    display: flex;
+    float: right;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    height: 98vh;
+}
