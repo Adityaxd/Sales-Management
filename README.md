@@ -1,30 +1,17 @@
-# Getting Started with Create React App
+The project makes use of technologies of Machine Learning and Web Development.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Backend of the project is based upon Java, Java JDBC and Java Servlets.
 
-## Available Scripts
+The UI relies upon HTML, CSS, JavaScript , React.JS.
 
-In the project directory, you can run:
+Libraries like MaterialUI have been used and their components are included in the project.
 
-### `npm start`
+Machine Learning is implemented to predict the due dates of invoices,
+which are then bucketized into delay buckets based upon their predicted due dates.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Complete Project Report is present in the Sales-Management folder under the name "1805455_AdityaChaudhary_CapstoneProjectReport.pdf"
 
-### `npm test`
+Screenshots of the UI are present in the Sales-Management folder under the name "Dashboard & Functionalities.pdf"
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Complete Machine Learning notebook (.ipynb) is present in the Sales-Management folder under the name "B2B AI Sales Order Management ML Model.ipynb"
