@@ -1,4 +1,4 @@
-The project makes use of technologies of Machine Learning and Web Development.
+The project mixes the benefits of Machine Learning and Web Development.
 
 Backend of the project is based upon Java, Java JDBC and Java Servlets.
 
